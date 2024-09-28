@@ -5,5 +5,16 @@ For this challenge. I used the downloadable file from the url provided in City B
 
 All the visualisations are based on this merged file. for details, please visit the "Source_data_cleaning" folder.
 
-For viewing all the plots, please visit my the Tableau Public url.
+For viewing all the plots, please visit my the Tableau Public url: <>
 
+"Total number of riders from 2023 to 2024" graph answers these question below:
+
+- How many trips have been recorded in total during the chosen period?
+- By what percentage has total ridership grown?
+- How have the proportions of short-term customers and annual subscribers changed?
+
+"Bike usage trend vs Hours between 2023 and 2024" graph answers this question:
+
+- What are the peak hours when bikes are used?
+
+"Top 10 bike trip start stations in city", "Top 10 bike trip end destinations in city",
